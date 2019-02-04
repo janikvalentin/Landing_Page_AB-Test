@@ -1,20 +1,19 @@
-## Analyze AB Test Results
+## Project Overview
 
-This is my project on analyzing AB Test Results as part of the
-[Udacity Data Analyst Nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002)
-
-### Overview
-
-This is a procejt on probability, AB-Testing and regressions.
-The goal of the project is to assess, whether a company's new web page leads
+This is a project on probability, AB-Tests and regressions.
+The goal of the project is to assess, whether an e-commerce company's new web page leads
 to a higher user conversion rate or not.
 
 Probabilities for different scenarios are calculated to explore the dataset.
 A standard t-test and a proportions z-test are used to test hypotheses.
 Finally, a logistic regression model is implemented to test correlation.
 
+The project is one requirement in achieving the
+[Udacity Data Analyst Nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002)
+certification.
+
 ### Technologies used
 
 - Python
-- libraries: numpy, pandas, random, matplotlib, statsmodels, scipy, patsy
+- libraries: numpy, pandas, random, statsmodels, scipy, patsy, matplotlib
 - the report is written in jupyter notebooks
